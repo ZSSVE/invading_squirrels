@@ -1,0 +1,17 @@
+body {
+    padding: 2em;
+    font-family: Arial, Verdana, sans-serif;
+    background: #003300 no-repeat top url(https://sumedh.files.wordpress.com/2013/08/background.png);
+}
+
+#info {
+    opacity: 0.8;
+    position: absolute;
+}
+
+canvas {
+    width: 600px;
+    height: 500px;
+    /* For debug */
+    /*border: 0.2em solid red;*/
+}
